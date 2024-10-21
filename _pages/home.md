@@ -5,7 +5,7 @@ hidden: true
 title: GameChanger™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pilates_Moscow.jpg/1280px-Pilates_Moscow.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pineapple_Juice_fruits-465832.jpg/1280px-Pineapple_Juice_fruits-465832.jpg
   text_color: gold
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
