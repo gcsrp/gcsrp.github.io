@@ -2,7 +2,7 @@
 permalink: /team/
 title: Team GameChanger™
 feature_row:
-  - image_path: https://projectvikram.github.io/restricted_assets/images/1000041871.webp
+  - image_path: /assets/images/1000041871.webp
     alt: "Shindhuja RP (avatar image)"
     title: "Sindhuja RP"
     excerpt: "Founder, GameChanger"
