@@ -40,7 +40,7 @@ feature_row:
     btn_label: "Fitness AI"      
 ---
 
-<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
+<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vStB2Mz0YlSs5wbQiZyJScPMjGNWc3geeitYwEC4JhNv5L8Y4IHB8jaw4FOc7zG3LQNSI7G1W6hzP8z/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
 {% include feature_row %}
 
