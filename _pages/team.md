@@ -15,7 +15,7 @@ feature_row:
 
 {% include feature_row %}
 
-<img src="https://projectvikram.github.io/restricted_assets/images/1000041871.webp" alttext="Sindhuja RP (avatar image)" width="300" height="300">
+<img src="/assets/images/1000041871.webp" alttext="Sindhuja RP (avatar image)" width="300" height="300">
 
 ## Sindhhuja RP
 ### Founder
