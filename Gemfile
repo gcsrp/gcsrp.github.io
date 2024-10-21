@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "GameChanger"
   avatar : "/assets/images/ayetutor.png"
-  bio    : "AyeAI is a cognitive edutech company. We make technology democratic."
+  bio    : "A quest for hale AyeAI is a cognitive edutech company hearty living. We make technology democratic."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
