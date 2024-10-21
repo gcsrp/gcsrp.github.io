@@ -18,27 +18,26 @@ excerpt:
   </small>
 feature_row:
   - image_path: /assets/images/image1.jpg
-    alt: "Highlight1"
-    title: "Learn"
-    excerpt: "All you need to do is just take 2 minutes of your time and that's all for a fork. Ofcourse, a bit longer to learn, try out a free course [here](https://ayeai.xyz/site/courses/github-pages-site-in-2-minutes-with-ayepages/)
- <br><br><br>"
+    alt: "Personalize"
+    title: "Personalize"
+    excerpt: "Tell us about yourself – Link to Gen AI that asks questions about their lifestyle, preferences, and goals.<br><br><br>"
     url: "/learn/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/image2.jpg
-    alt: "Highlight2"
-    title: "Fork"
-    excerpt: " With GameChanger it is simpler to customise your GitHub Pages site as per your choice, just a fork would serve the purpose<br><br><br>"
+  - image_path: /assets/images/1000041847.webp
+    alt: "Diet"
+    title: "Diet Plan"
+    excerpt: "Let’s discuss your diet – A guided AI-assisted conversation for personalized nutrition advice.<br><br><br>"
     url: "/fork/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Diet AI"
   - image_path: /assets/images/image3.jpg
-    alt: "Highlight3"
-    title: "Deploy"
-    excerpt: " GameChanger is flexible and you can adopt it as per needs and choices. You may use it as blog, personal profile, information site and it's your choice!<br><br><br>"
+    alt: "Exercise Plam"
+    title: "Exercise Plan"
+    excerpt: "Plan your exercise routine – AI-generated workout plans based on user preferences and fitness level.<br><br><br>"
     url: "/deploy/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Exercise AI"      
 ---
 
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
