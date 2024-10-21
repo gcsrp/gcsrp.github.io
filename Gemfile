@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: projectvikram/projecttheme
+remote_theme: projectvikram/vikramtheme
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
