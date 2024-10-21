@@ -21,7 +21,7 @@ feature_row:
     alt: "Personalize"
     title: "Personalize"
     excerpt: "Tell us about yourself – Link to Gen AI that asks questions about their lifestyle, preferences, and goals.<br><br><br>"
-    url: "/learn/"
+    url: "https://chatgpt.com/share/671673d6-ab98-800f-991b-3fc3b24be36a"
     btn_class: "btn--primary"
     btn_label: "Start Now!"
   - image_path: /assets/images/1000041847.webp
