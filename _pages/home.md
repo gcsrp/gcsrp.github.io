@@ -17,7 +17,7 @@ excerpt:
   <a href="about/">More about GameChanger™  </a>
   </small>
 feature_row:
-  - image_path: /assets/images/image1.jpg
+  - image_path: /assets/images/1000041871.webp
     alt: "Personalize"
     title: "Personalize"
     excerpt: "Tell us about yourself – Link to Gen AI that asks questions about their lifestyle, preferences, and goals.<br><br><br>"
@@ -31,9 +31,9 @@ feature_row:
     url: "/fork/"
     btn_class: "btn--primary"
     btn_label: "Diet AI"
-  - image_path: /assets/images/image3.jpg
-    alt: "Exercise Plam"
-    title: "Exercise Plan"
+  - image_path: /assets/images/1000041870.webp
+    alt: "Fitness Plam"
+    title: "Fitness Plan"
     excerpt: "Plan your exercise routine – AI-generated workout plans based on user preferences and fitness level.<br><br><br>"
     url: "/deploy/"
     btn_class: "btn--primary"
