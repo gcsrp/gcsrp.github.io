@@ -17,13 +17,13 @@ excerpt:
   <a href="about/">More about GameChanger™  </a>
   </small>
 feature_row:
-  - image_path: /assets/images/1000041871.webp
+  - image_path: /assets/images/1000041870.webp
     alt: "Personalize"
     title: "Personalize"
     excerpt: "Tell us about yourself – Link to Gen AI that asks questions about their lifestyle, preferences, and goals.<br><br><br>"
     url: "/learn/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Start Now!"
   - image_path: /assets/images/1000041847.webp
     alt: "Diet"
     title: "Diet Plan"
@@ -31,20 +31,17 @@ feature_row:
     url: "/fork/"
     btn_class: "btn--primary"
     btn_label: "Diet AI"
-  - image_path: /assets/images/1000041870.webp
+  - image_path: /assets/images/1000041871.webp
     alt: "Fitness Plam"
     title: "Fitness Plan"
     excerpt: "Plan your exercise routine – AI-generated workout plans based on user preferences and fitness level.<br><br><br>"
     url: "/deploy/"
     btn_class: "btn--primary"
-    btn_label: "Exercise AI"      
+    btn_label: "Fitness AI"      
 ---
 
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
 {% include feature_row %}
 
-GameChanger site demonstrates a user friendly template which is suitable for making personal profiles, trainers profile, Course pages, blogs, etc..
-
-This site also contains pages that help you to connect with various social media channels, it shows how animations on the site look beautiful, meetings on the site makes life easier.
-
+Unlock the power of healthy living with GameChanger – where science meets lifestyle. Founded by Sindhuja RP, a national-level athlete and PhD scholar in Nutrition at EIU Paris, this platform is designed to fuel your transformation. From personalized nutrition insights and tailored workout routines to live consultations and success stories, we’re here to guide every step of your wellness journey. Whether you’re starting fresh or refining your habits, GameChanger offers AI-powered tools, expert advice, and community support to help you move smart, eat right, and live your best life. Ready to take the first step? Let’s make your health the ultimate game-changer!
