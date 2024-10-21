@@ -5,13 +5,13 @@ hidden: true
 title: GameChanger™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
+  overlay_image: /assets/images/1000041851.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is an GameChanger™ site<br>
-  meant for academic purposes</b><br>
+  <b>Transform Your Life with GameChanger™<br>
+  Eat Right, Move Smart, Live Well</b><br>
   <small>
   <a href="about/">More about GameChanger™  </a>
   </small>
