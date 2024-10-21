@@ -6,6 +6,7 @@ title: GameChanger™
 header:
   overlay_color: "#4d2e00"
   overlay_image: /assets/images/1000041851.jpg
+  text_color: black
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
