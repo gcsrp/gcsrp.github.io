@@ -49,3 +49,7 @@ feature_row:
 Founded by Sindhuja RP, a national-level athlete and PhD scholar in Nutrition at EIU Paris, GameChanger is designed to fuel your transformation. From personalized nutrition insights and tailored workout routines to live consultations and success stories, we’re here to guide every step of your wellness journey.
 
 Whether you’re starting fresh or refining your habits, GameChanger offers AI-powered tools, expert advice, and community support to help you move smart, eat right, and live your best life. Ready to take the first step? Let’s make your health the ultimate game-changer!
+
+---
+™ GameChanger is claimed as a Trademark by Shindhuja RP.
+All disputes are subject to the jurisdiction on courts in Chennai, Tamil Nadu, India only.
