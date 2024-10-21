@@ -44,4 +44,8 @@ feature_row:
 
 {% include feature_row %}
 
-Unlock the power of healthy living with GameChanger – where science meets lifestyle. Founded by Sindhuja RP, a national-level athlete and PhD scholar in Nutrition at EIU Paris, this platform is designed to fuel your transformation. From personalized nutrition insights and tailored workout routines to live consultations and success stories, we’re here to guide every step of your wellness journey. Whether you’re starting fresh or refining your habits, GameChanger offers AI-powered tools, expert advice, and community support to help you move smart, eat right, and live your best life. Ready to take the first step? Let’s make your health the ultimate game-changer!
+### Unlock the power of healthy living with GameChanger – where science meets lifestyle.
+
+Founded by Sindhuja RP, a national-level athlete and PhD scholar in Nutrition at EIU Paris, GameChanger is designed to fuel your transformation. From personalized nutrition insights and tailored workout routines to live consultations and success stories, we’re here to guide every step of your wellness journey.
+
+Whether you’re starting fresh or refining your habits, GameChanger offers AI-powered tools, expert advice, and community support to help you move smart, eat right, and live your best life. Ready to take the first step? Let’s make your health the ultimate game-changer!
