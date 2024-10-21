@@ -19,7 +19,7 @@ feature_row:
 ---
 
 # Partners in Inclusive Development through Cognitization
-#### Project Vikram  is honoured to have the following dignitaries on its panel of advisors
+#### GameChanger  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 
@@ -29,7 +29,7 @@ feature_row:
 ### GameChanger
 #### @ayeai
 
-GameChanger is a cognitive edutech organization and the primary technical partners for Project Vikram.
+GameChanger is a cognitive edutech organization and the primary technical partners for GameChanger.
 
 ## &#10070;
 
@@ -39,6 +39,6 @@ GameChanger is a cognitive edutech organization and the primary technical partne
 ### GameChanger
 #### @ayeai
 
-GameChanger is a cognitive edutech organization and the primary technical partners for Project Vikram.
+GameChanger is a cognitive edutech organization and the primary technical partners for GameChanger.
 
 ## &#10070;

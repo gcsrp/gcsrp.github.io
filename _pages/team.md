@@ -18,7 +18,7 @@ feature_row:
     btn_label: "Profile"
 ---
 
-# Team Project Vikram
+# Team GameChanger
 
 {% include feature_row %}
 
