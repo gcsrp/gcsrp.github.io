@@ -28,14 +28,14 @@ feature_row:
     alt: "Diet"
     title: "Diet Plan"
     excerpt: "Let’s discuss your diet – A guided AI-assisted conversation for personalized nutrition advice.<br><br><br>"
-    url: "/fork/"
+    url: "https://chatgpt.com/share/67167531-aa40-800f-b1f2-164cfe46164c"
     btn_class: "btn--primary"
     btn_label: "Diet AI"
   - image_path: /assets/images/1000041871.webp
     alt: "Fitness Plam"
     title: "Fitness Plan"
     excerpt: "Plan your exercise routine – AI-generated workout plans based on user preferences and fitness level.<br><br><br>"
-    url: "/deploy/"
+    url: "https://chatgpt.com/share/67167633-0444-800f-9ff0-914fc8383a21"
     btn_class: "btn--primary"
     btn_label: "Fitness AI"      
 ---
