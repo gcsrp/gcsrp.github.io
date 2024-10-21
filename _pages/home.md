@@ -5,7 +5,7 @@ hidden: true
 title: GameChanger™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://gcsrp.github.io/assets/images/1000041846.webp
+  overlay_image: /assets/images/1000041851.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
