@@ -5,7 +5,7 @@ hidden: true
 title: GameChanger™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pineapple_Juice_fruits-465832.jpg/1280px-Pineapple_Juice_fruits-465832.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Yoga4Love_Freedom_Gratitude.jpg/1280px-Yoga4Love_Freedom_Gratitude.jpg
   text_color: gold
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
