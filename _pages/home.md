@@ -10,8 +10,8 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is an GameChanger™ site<br>
-  meant for academic purposes</b><br>
+  <b>Transform Your Life with GameChanger™<br>
+  Eat Right, Move Smart, Live Well</b><br>
   <small>
   <a href="about/">More about GameChanger™  </a>
   </small>
