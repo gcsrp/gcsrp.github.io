@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is  an GameChanger™ site Eat Right, Move Smart, Live Well
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
